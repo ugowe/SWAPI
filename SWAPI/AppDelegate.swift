@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SWAPI
 //
-//  Created by Joseph Ugowe on 9/3/19.
+//  Created by Joseph Ugowe on 9/1/19.
 //  Copyright © 2019 Joseph Ugowe. All rights reserved.
 //
 
